@@ -12,5 +12,3 @@ Every day of the ledger is sealed on-chain (Sepolia testnet):
 verify at https://sepolia.etherscan.io/address/0x7632C501E0a9e91121cB39828a0d3d2030EFcdc4
 
 Site: https://btcaccumulator.io
-
-*First data drop arrives with the next engine run.*
