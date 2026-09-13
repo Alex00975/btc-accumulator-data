@@ -1,0 +1,25 @@
+{
+  "quote_totali": 49738.32899783972,
+  "pt": [
+    {
+      "nome": "sUSDS",
+      "underlying_address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+      "capitale_usdc": 10115.97,
+      "apy_ingresso": 0.049799,
+      "data_ingresso": "2026-09-13",
+      "scadenza": "2026-11-26"
+    }
+  ],
+  "btc_qty": 0.007965296789728845,
+  "cassa_pt_usdc": 0.0,
+  "ultimo_ciclo": "2026-09-13",
+  "rwa": {
+    "nome": "sUSDS",
+    "qty": 36355.1538490184,
+    "principal_usdc": 40320.0
+  },
+  "rwa_watch": {
+    "sfidante": null,
+    "giorni": 0
+  }
+}

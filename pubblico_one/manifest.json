@@ -1,0 +1,17 @@
+{
+ "prodotto": "BYA One (paper test)",
+ "sigillo_del": "2026-09-13T14:19:53+00:00",
+ "digest_sha256": "4b79505591fe9e815527fea3eafac808df7d85622b02ebdb8769b624f1ad3c13",
+ "tx": "0x230ee7f1f1c1146403e121b58a4e9a68fce1e8dc5a336076b5f04fbe0a6c1484",
+ "ordine_concatenazione": [
+  "registro_one.json",
+  "operazioni_one.csv",
+  "sigilli_one.csv"
+ ],
+ "nota": "sigilli_one.csv e' com'era PRIMA della riga di questo sigillo (l'impronta copre lo stato precedente).",
+ "sha256_singoli": {
+  "registro_one.json": "81971991cc91b88df1a2e8378520dfc398506c7b9e0015f58074e15c74732269",
+  "operazioni_one.csv": "58218483672900ee8d19bc492c136d67b923a7e39e29cebb3623e3e53e358fee",
+  "sigilli_one.csv": "1f76ae083dcd450905573cb03bc32ae68139c8979a967fde794b462397e898d8"
+ }
+}
