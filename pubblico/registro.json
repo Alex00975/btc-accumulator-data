@@ -1,25 +1,25 @@
 {
-  "quote_totali": 54521.180058623664,
+  "quote_totali": 55650.072303912486,
   "pt": [
     {
       "nome": "sUSDS",
       "underlying_address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
-      "capitale_usdc": 10115.97,
-      "apy_ingresso": 0.049799,
-      "data_ingresso": "2026-09-13",
+      "capitale_usdc": 11338.05,
+      "apy_ingresso": 0.04996,
+      "data_ingresso": "2026-09-19",
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.00809993519899892,
-  "cassa_pt_usdc": 982.0,
-  "ultimo_ciclo": "2026-09-18",
+  "btc_qty": 0.008272681133042983,
+  "cassa_pt_usdc": 0.0,
+  "ultimo_ciclo": "2026-09-19",
   "rwa": {
     "nome": "sUSDS",
-    "qty": 39887.36214410589,
-    "principal_usdc": 44248.0
+    "qty": 40710.992021932034,
+    "principal_usdc": 45176.0
   },
   "rwa_watch": {
-    "sfidante": "USDY",
-    "giorni": 1
+    "sfidante": null,
+    "giorni": 0
   }
 }
