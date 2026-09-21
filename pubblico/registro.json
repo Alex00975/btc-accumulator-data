@@ -1,5 +1,5 @@
 {
-  "quote_totali": 55650.072303912486,
+  "quote_totali": 55990.55280945794,
   "pt": [
     {
       "nome": "sUSDS",
@@ -11,12 +11,12 @@
     }
   ],
   "btc_qty": 0.008402472617192472,
-  "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-09-20",
+  "cassa_pt_usdc": 70.0,
+  "ultimo_ciclo": "2026-09-21",
   "rwa": {
     "nome": "sUSDS",
-    "qty": 40701.589298925785,
-    "principal_usdc": 45176.0
+    "qty": 40953.86215583697,
+    "principal_usdc": 45456.0
   },
   "rwa_watch": {
     "sfidante": null,
