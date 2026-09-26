@@ -4,14 +4,14 @@
  "discount": 13.0,
  "live": {
   "since": "2026-08-18",
-  "quota": 1.0395,
-  "pct": 3.95,
+  "quota": 1.0393,
+  "pct": 3.93,
   "btc": 0.03730621,
   "sats": 3730621,
-  "nav": 22806.73,
+  "nav": 22801.42,
   "sigillo": {
-   "data": "2026-09-25",
-   "tx": "0x44e34f452d8e8032ac5b737323e535e962e0148ebd94c1e3d19cd559adabdc58"
+   "data": "2026-09-26",
+   "tx": "0x1143e59cbdd350df1ff2b76563cb8b0ba73496a9d9460a8f9cd6acdef17ba70e"
   }
  }
 }
