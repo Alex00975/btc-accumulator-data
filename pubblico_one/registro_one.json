@@ -1,18 +1,18 @@
 {
- "quote_totali": 26200.556630572537,
+ "quote_totali": 27477.945181781513,
  "titoli": {
-  "principal_usdc": 23529.43,
-  "apy": 0.0403,
-  "data_ingresso": "2026-10-02",
+  "principal_usdc": 24683.68,
+  "apy": 0.04,
+  "data_ingresso": "2026-10-03",
   "scadenza": "2026-11-17"
  },
- "btc_qty": 0.044225729610821204,
+ "btc_qty": 0.04632970245481447,
  "hwm": 1.0,
  "anno_quota": {
   "anno": 2026,
-  "quota": 1.04188
+  "quota": 1.041187
  },
  "ultima_uscita_mese": "2026-10",
- "fee_gestione_cum": 1.7697,
- "ultimo_ciclo": "2026-10-02"
+ "fee_gestione_cum": 1.8342,
+ "ultimo_ciclo": "2026-10-03"
 }
