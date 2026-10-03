@@ -10,12 +10,12 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.008961969661675806,
+  "btc_qty": 0.009045430480169911,
   "cassa_pt_usdc": 844.0,
-  "ultimo_ciclo": "2026-10-02",
+  "ultimo_ciclo": "2026-10-03",
   "rwa": {
     "nome": "sUSDS",
-    "qty": 44860.90663973607,
+    "qty": 44854.55045478652,
     "principal_usdc": 49842.0
   },
   "rwa_watch": {
