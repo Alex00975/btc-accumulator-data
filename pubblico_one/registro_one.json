@@ -1,7 +1,7 @@
 {
  "quote_totali": 28532.698743122983,
  "titoli": {
-  "principal_usdc": 25641.35,
+  "principal_usdc": 25641.28,
   "apy": 0.04,
   "data_ingresso": "2026-10-05",
   "scadenza": "2026-11-17"
@@ -10,9 +10,9 @@
  "hwm": 1.0,
  "anno_quota": {
   "anno": 2026,
-  "quota": 1.03924
+  "quota": 1.034643
  },
  "ultima_uscita_mese": "2026-10",
- "fee_gestione_cum": 2.11,
- "ultimo_ciclo": "2026-10-07"
+ "fee_gestione_cum": 2.1803,
+ "ultimo_ciclo": "2026-10-08"
 }

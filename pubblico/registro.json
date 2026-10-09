@@ -12,7 +12,7 @@
   ],
   "btc_qty": 0.009266686237465476,
   "cassa_pt_usdc": 844.0,
-  "ultimo_ciclo": "2026-10-08",
+  "ultimo_ciclo": "2026-10-09",
   "rwa": {
     "nome": "sUSDS",
     "qty": 47050.79623347112,
@@ -20,6 +20,6 @@
   },
   "rwa_watch": {
     "sfidante": "OUSG",
-    "giorni": 1
+    "giorni": 2
   }
 }
