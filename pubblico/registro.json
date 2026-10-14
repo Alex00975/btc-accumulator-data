@@ -10,12 +10,12 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.009813951409098381,
+  "btc_qty": 0.00991276120801575,
   "cassa_pt_usdc": 844.0,
-  "ultimo_ciclo": "2026-10-13",
+  "ultimo_ciclo": "2026-10-14",
   "rwa": {
     "nome": "sUSDS",
-    "qty": 50219.64899037081,
+    "qty": 50212.24387200067,
     "principal_usdc": 55872.0
   },
   "rwa_watch": {
@@ -23,9 +23,9 @@
     "giorni": 0
   },
   "eventi_giorno": {
-    "data": "2026-10-13",
+    "data": "2026-10-14",
     "eventi": [
-      "Accumulo: 17.57 USDC -> 0.00020936 BTC @ 83,930",
+      "Accumulo: 8.24 USDC -> 0.00009881 BTC @ 83,390",
       "Nessun ingresso oggi"
     ]
   }
