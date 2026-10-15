@@ -2,7 +2,7 @@
  "prodotto": "BTC Accumulator",
  "stato": "live paper test (simulazione, nessun fondo reale)",
  "nota": "Ogni giornata e' sigillata on-chain su Sepolia: l'impronta del registro e' verificabile per sempre.",
- "generato_utc": "2026-10-14T17:36:51+00:00",
+ "generato_utc": "2026-10-15T12:08:55+00:00",
  "giorni": [
   {
    "data": "2026-07-23",
@@ -579,6 +579,15 @@
    "btc_accumulati": 0.00991276,
    "sottoscrizioni_simulate_usdc": 0.0,
    "sigillo_tx": "0xce99971ce971e6112e07361b32ed3cf1473f1f4c7911a5844d2ab2555c0f20fb"
+  },
+  {
+   "data": "2026-10-15",
+   "quota": 1.030581,
+   "quote_circolanti": 68217.98,
+   "tvl_usdc": 70304.15,
+   "btc_accumulati": 0.01000564,
+   "sottoscrizioni_simulate_usdc": 1400.0,
+   "sigillo_tx": "0x0937902310fcb77be37deee438d7c9cc62e335e7121a8c8c55e383a3c998e861"
   }
  ]
 }
