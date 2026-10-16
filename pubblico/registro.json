@@ -12,7 +12,7 @@
   ],
   "btc_qty": 0.01000564152564961,
   "cassa_pt_usdc": 844.0,
-  "ultimo_ciclo": "2026-10-15",
+  "ultimo_ciclo": "2026-10-16",
   "rwa": {
     "nome": "sUSDS",
     "qty": 51463.50051873226,
@@ -23,10 +23,9 @@
     "giorni": 0
   },
   "eventi_giorno": {
-    "data": "2026-10-15",
+    "data": "2026-10-16",
     "eventi": [
-      "Accumulo: 7.52 USDC -> 0.00009288 BTC @ 80,949",
-      "Sottoscrizione: 1400 USDC @ quota 1.0306 -> 1358.46 quote"
+      "Nessun ingresso oggi"
     ]
   }
 }
