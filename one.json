@@ -1,14 +1,14 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "y3": 4.87,
  "discount": 13.3,
  "live": {
   "since": "2026-08-18",
-  "quota": 1.037,
-  "pct": 3.7,
+  "quota": 1.0379,
+  "pct": 3.79,
   "btc": 0.05671515,
   "sats": 5671515,
-  "nav": 34930.21,
+  "nav": 34960.06,
   "sigillo": {
    "data": "2026-10-17",
    "tx": "0xac81683e90bb48cb7feb7b5093be88e9dea3da3dcb711f73f0ba731eeafb6d96"
