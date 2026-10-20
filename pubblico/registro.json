@@ -1,5 +1,5 @@
 {
-  "quote_totali": 70837.12426773443,
+  "quote_totali": 71971.78084985787,
   "pt": [
     {
       "nome": "sUSDS",
@@ -10,23 +10,23 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.010295543496627058,
+  "btc_qty": 0.01038736458063318,
   "cassa_pt_usdc": 844.0,
-  "ultimo_ciclo": "2026-10-19",
+  "ultimo_ciclo": "2026-10-20",
   "rwa": {
     "nome": "sUSDS",
-    "qty": 53867.73391448054,
-    "principal_usdc": 59972.0
+    "qty": 54911.80020515794,
+    "principal_usdc": 61142.0
   },
   "rwa_watch": {
     "sfidante": null,
     "giorni": 0
   },
   "eventi_giorno": {
-    "data": "2026-10-19",
+    "data": "2026-10-20",
     "eventi": [
-      "Accumulo: 3.96 USDC -> 0.00004783 BTC @ 82,709",
-      "Nessun ingresso oggi"
+      "Accumulo: 7.48 USDC -> 0.00009182 BTC @ 81,416",
+      "Sottoscrizione: 1170 USDC @ quota 1.0311 -> 1134.66 quote"
     ]
   }
 }
