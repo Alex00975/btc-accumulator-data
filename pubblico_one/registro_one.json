@@ -1,18 +1,18 @@
 {
  "quote_totali": 35101.43408202534,
  "titoli": {
-  "principal_usdc": 31588.69,
-  "apy": 0.040999999999999995,
-  "data_ingresso": "2026-10-18",
-  "scadenza": "2026-11-17"
+  "token": "USTB",
+  "qty": 2808.239122904935,
+  "nav_migrazione": 11.251041,
+  "data_migrazione": "2026-10-20"
  },
  "btc_qty": 0.059114373471760004,
  "hwm": 1.0,
  "anno_quota": {
   "anno": 2026,
-  "quota": 1.040114
+  "quota": 1.042864
  },
  "ultima_uscita_mese": "2026-10",
- "fee_gestione_cum": 3.1183,
- "ultimo_ciclo": "2026-10-20"
+ "fee_gestione_cum": 3.2914,
+ "ultimo_ciclo": "2026-10-21"
 }
