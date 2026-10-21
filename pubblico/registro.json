@@ -10,23 +10,46 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.01038736458063318,
+  "btc_qty": 0.010457995611417982,
   "cassa_pt_usdc": 844.0,
-  "ultimo_ciclo": "2026-10-20",
-  "rwa": {
-    "nome": "sUSDS",
-    "qty": 54911.80020515794,
-    "principal_usdc": 61142.0
-  },
-  "rwa_watch": {
-    "sfidante": null,
-    "giorni": 0
-  },
+  "ultimo_ciclo": "2026-10-21",
   "eventi_giorno": {
-    "data": "2026-10-20",
+    "data": "2026-10-21",
     "eventi": [
-      "Accumulo: 7.48 USDC -> 0.00009182 BTC @ 81,416",
-      "Sottoscrizione: 1170 USDC @ quota 1.0311 -> 1134.66 quote"
+      "Accumulo: 5.89 USDC -> 0.00007063 BTC @ 83,346",
+      "Paniere: formazione iniziale USDY, sUSDS, sUSDe",
+      "Nessun ingresso oggi",
+      "Ribilancio: 38,251 USDC da sUSDS -> sUSDe 15261, USDY 22929 (costo 61.22)"
     ]
+  },
+  "paniere": {
+    "sUSDS": {
+      "qty": 20556.261947314902,
+      "principal_usdc": 22890.744326457636
+    },
+    "sUSDe": {
+      "qty": 12168.870634232302,
+      "principal_usdc": 15261.037204976175
+    },
+    "USDY": {
+      "qty": 19931.305764369095,
+      "principal_usdc": 22929.001457219103
+    }
+  },
+  "formazione": [
+    "USDY",
+    "sUSDS",
+    "sUSDe"
+  ],
+  "sfidanti": {},
+  "pesi_target": {
+    "sUSDe": 0.25,
+    "USDY": 0.3756,
+    "sUSDS": 0.3744
+  },
+  "scaglione": {
+    "aum": 74240.79,
+    "posizioni_max": 3,
+    "tetto_emittente": 0.4
   }
 }
