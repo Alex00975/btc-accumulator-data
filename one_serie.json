@@ -1,0 +1,602 @@
+{
+ "prodotto": "BYA One",
+ "stato": "live paper test (simulazione, nessun fondo reale)",
+ "nota": "Ogni giornata e' sigillata on-chain su Sepolia (catena propria del One).",
+ "generato_utc": "2026-10-22T19:36:37+00:00",
+ "giorni": [
+  {
+   "data": "2026-08-18",
+   "quota": 1.0,
+   "sats": 1828536,
+   "btc": 0.01828536,
+   "nav_usdc": 10000.0,
+   "quote": 10000.0,
+   "sigillo_tx": "0x67d0a5fd5ceee7de4c92660c4981e2b9538286d62294fde22bbbfd14b59da243"
+  },
+  {
+   "data": "2026-08-19",
+   "quota": 1.000677,
+   "sats": 1828536,
+   "btc": 0.01828536,
+   "nav_usdc": 10006.77,
+   "quote": 10000.0,
+   "sigillo_tx": "0xf22f43ec566891a50044cdf996804bff5490bcf64f3bfaf561e51cecfd15f459"
+  },
+  {
+   "data": "2026-08-20",
+   "quota": 1.0147,
+   "sats": 1881980,
+   "btc": 0.0188198,
+   "nav_usdc": 10477.0,
+   "quote": 10325.2192,
+   "sigillo_tx": "0xecfc92e0b994e8b1bb94f2d405ce6104b4e7479ca26ef108d531a7e1662f2e0c"
+  },
+  {
+   "data": "2026-08-21",
+   "quota": 1.025097,
+   "sats": 1881980,
+   "btc": 0.0188198,
+   "nav_usdc": 10584.35,
+   "quote": 10325.2192,
+   "sigillo_tx": "0x90e94c4666ddbfa20df9a79cc7652ffe77fe0faa2cffb5d09ad4d7f8ee687554"
+  },
+  {
+   "data": "2026-08-22",
+   "quota": 1.024818,
+   "sats": 1881980,
+   "btc": 0.0188198,
+   "nav_usdc": 10581.47,
+   "quote": 10325.2192,
+   "sigillo_tx": "0x0143ddbc53c36667e567a243a06ce36a1b9b0bd8759c0c83b0a3e53c268876d9"
+  },
+  {
+   "data": "2026-08-23",
+   "quota": 1.023701,
+   "sats": 1881980,
+   "btc": 0.0188198,
+   "nav_usdc": 10569.94,
+   "quote": 10325.2192,
+   "sigillo_tx": "0x29154d8f4c95d927e28908c44a740b3bc63bc384171105452e96d5497d855be3"
+  },
+  {
+   "data": "2026-08-24",
+   "quota": 1.025385,
+   "sats": 1881980,
+   "btc": 0.0188198,
+   "nav_usdc": 10587.32,
+   "quote": 10325.2192,
+   "sigillo_tx": "0xd6fc8daadc46ae2890ec5d2f70016cc5d6d1f312aaafcfd12dcbd96d0fb5eadc"
+  },
+  {
+   "data": "2026-08-25",
+   "quota": 1.028637,
+   "sats": 1881980,
+   "btc": 0.0188198,
+   "nav_usdc": 10620.9,
+   "quote": 10325.2192,
+   "sigillo_tx": "0xea21b36cac6824866e1ec43b4ddcaaa24c0684e18f4302b027de7f0518968a7c"
+  },
+  {
+   "data": "2026-08-26",
+   "quota": 1.027638,
+   "sats": 2028421,
+   "btc": 0.02028421,
+   "nav_usdc": 11590.59,
+   "quote": 11278.8627,
+   "sigillo_tx": "0x2e79c49185b82467b803a2ebf11832bfd1f2299acad888b693c15070081b15bc"
+  },
+  {
+   "data": "2026-08-27",
+   "quota": 1.029821,
+   "sats": 2028421,
+   "btc": 0.02028421,
+   "nav_usdc": 11615.21,
+   "quote": 11278.8627,
+   "sigillo_tx": "0x0bc01f3c0bb15827a8f2ac8b1f4ed520eb3f1d81ec2a7efa4b5729eb55d5cf74"
+  },
+  {
+   "data": "2026-08-28",
+   "quota": 1.025124,
+   "sats": 2028421,
+   "btc": 0.02028421,
+   "nav_usdc": 11562.23,
+   "quote": 11278.8627,
+   "sigillo_tx": "0x9f3c9b6dc6094bf208463e2c2cbe5119185881b5cce66501c614a5c26d5a35c6"
+  },
+  {
+   "data": "2026-08-29",
+   "quota": 1.026262,
+   "sats": 2028421,
+   "btc": 0.02028421,
+   "nav_usdc": 11575.07,
+   "quote": 11278.8627,
+   "sigillo_tx": "0xa4601d7f3b457b6aa3a60987d94185d3c704f920c6d7e90fc5afe657411692db"
+  },
+  {
+   "data": "2026-08-30",
+   "quota": 1.027898,
+   "sats": 2028421,
+   "btc": 0.02028421,
+   "nav_usdc": 11593.52,
+   "quote": 11278.8627,
+   "sigillo_tx": "0x7207e8bc8bf2d94faa0410f3fd5b431c6e95c92e66a7f68c8d88c6a5127dc0e8"
+  },
+  {
+   "data": "2026-08-31",
+   "quota": 1.027669,
+   "sats": 2028421,
+   "btc": 0.02028421,
+   "nav_usdc": 11590.94,
+   "quote": 11278.8627,
+   "sigillo_tx": "0xc0a24a7ff585206e8984991fcb44d31b6b240a37f3ea8451009ad24a05648ebf"
+  },
+  {
+   "data": "2026-09-01",
+   "quota": 1.027217,
+   "sats": 1987852,
+   "btc": 0.01987852,
+   "nav_usdc": 11354.12,
+   "quote": 11053.2855,
+   "sigillo_tx": "0x04556ce9633405b52fa26fa705f67d81dd16b3d02658663ddcea775e2f3272b9"
+  },
+  {
+   "data": "2026-09-02",
+   "quota": 1.025355,
+   "sats": 2160015,
+   "btc": 0.02160015,
+   "nav_usdc": 12443.54,
+   "quote": 12135.8371,
+   "sigillo_tx": "0x50fff64bf9c8df276e264086d4be7a16b69b8722d5194230de138b61d2f8d68b"
+  },
+  {
+   "data": "2026-09-03",
+   "quota": 1.029881,
+   "sats": 2251669,
+   "btc": 0.02251669,
+   "nav_usdc": 13108.47,
+   "quote": 12728.1382,
+   "sigillo_tx": "0x96b3fc7287410aaa0829e8b8c87b463ecc1403b4e4eb832b86dc5ec306359d89"
+  },
+  {
+   "data": "2026-09-04",
+   "quota": 1.029205,
+   "sats": 2445041,
+   "btc": 0.02445041,
+   "nav_usdc": 14379.86,
+   "quote": 13971.8163,
+   "sigillo_tx": "0xac209f3352ef9e596e5f46ca71d6df8e6819fc6621ba800d212d3a18ec749e69"
+  },
+  {
+   "data": "2026-09-05",
+   "quota": 1.030134,
+   "sats": 2445041,
+   "btc": 0.02445041,
+   "nav_usdc": 14392.84,
+   "quote": 13971.8163,
+   "sigillo_tx": "0x15dcbaf3cabc144161ac2a4df124b7bb2bb4e6de484381b1ed17f469389a2c1f"
+  },
+  {
+   "data": "2026-09-06",
+   "quota": 1.030274,
+   "sats": 2445041,
+   "btc": 0.02445041,
+   "nav_usdc": 14394.8,
+   "quote": 13971.8163,
+   "sigillo_tx": "0x00689ac977e74a732e1cc749f7618790c6dda36a7297f89aeb2e2acbe9cb1937"
+  },
+  {
+   "data": "2026-09-07",
+   "quota": 1.028667,
+   "sats": 2445041,
+   "btc": 0.02445041,
+   "nav_usdc": 14372.35,
+   "quote": 13971.8163,
+   "sigillo_tx": "0xd6ae93d6f723dda60ac0edfbd34356fc88159fb97e01537fc7cf25a1649db373"
+  },
+  {
+   "data": "2026-09-08",
+   "quota": 1.027865,
+   "sats": 2445041,
+   "btc": 0.02445041,
+   "nav_usdc": 14361.14,
+   "quote": 13971.8163,
+   "sigillo_tx": "0x77159a3b5052b4977ba21d4ddcb498adbb84e9a02cd42cce02d57c2bc3836afb"
+  },
+  {
+   "data": "2026-09-09",
+   "quota": 1.029596,
+   "sats": 2618218,
+   "btc": 0.02618218,
+   "nav_usdc": 15515.33,
+   "quote": 15069.334,
+   "sigillo_tx": "0xa574798595df830f83797887a3618ab698af0edac82c9e14be5ac55d9b9bad5b"
+  },
+  {
+   "data": "2026-09-10",
+   "quota": 1.025987,
+   "sats": 3024528,
+   "btc": 0.03024528,
+   "nav_usdc": 18040.94,
+   "quote": 17583.9847,
+   "sigillo_tx": "0xa070bafd30ac9dbf2990b7eb017ca66f3f1b98b7875428a8ab9f86842e54e75d"
+  },
+  {
+   "data": "2026-09-11",
+   "quota": 1.02933,
+   "sats": 3024528,
+   "btc": 0.03024528,
+   "nav_usdc": 18099.72,
+   "quote": 17583.9847,
+   "sigillo_tx": "0xeba557dbb24a3273edbadd59efe714a76a49eb66642d6cbd1cee994d81b61724"
+  },
+  {
+   "data": "2026-09-12",
+   "quota": 1.026457,
+   "sats": 3024528,
+   "btc": 0.03024528,
+   "nav_usdc": 18049.2,
+   "quote": 17583.9847,
+   "sigillo_tx": "0x32df0b944c3fed254a5670fa76ebcf3ddf4f0c9d4b2f8b6d989953b12afa92fc"
+  },
+  {
+   "data": "2026-09-13",
+   "quota": 1.026098,
+   "sats": 3169590,
+   "btc": 0.0316959,
+   "nav_usdc": 18962.89,
+   "quote": 18480.5853,
+   "sigillo_tx": "0x230ee7f1f1c1146403e121b58a4e9a68fce1e8dc5a336076b5f04fbe0a6c1484"
+  },
+  {
+   "data": "2026-09-14",
+   "quota": 1.029107,
+   "sats": 3169590,
+   "btc": 0.0316959,
+   "nav_usdc": 19018.5,
+   "quote": 18480.5853,
+   "sigillo_tx": "0xee32427f23d88274b6d7a19c513aa6ad585f46608c935690d5956687fc2cb79d"
+  },
+  {
+   "data": "2026-09-15",
+   "quota": 1.02431,
+   "sats": 3257626,
+   "btc": 0.03257626,
+   "nav_usdc": 19479.85,
+   "quote": 19017.5322,
+   "sigillo_tx": "0x48b37f2958b785e7a9db2bcae317c8bd088160e96cf69bab5a4403809bf20c81"
+  },
+  {
+   "data": "2026-09-16",
+   "quota": 1.02382,
+   "sats": 3257626,
+   "btc": 0.03257626,
+   "nav_usdc": 19470.53,
+   "quote": 19017.5322,
+   "sigillo_tx": "0xfae53c7740a2fccfbf7c237bbe19050da090f5786f338da65f8d20bae36bdf4a"
+  },
+  {
+   "data": "2026-09-17",
+   "quota": 1.025572,
+   "sats": 3257626,
+   "btc": 0.03257626,
+   "nav_usdc": 19503.85,
+   "quote": 19017.5322,
+   "sigillo_tx": "0xce9a5af8eacbda2cec75513ecbfea9306bc8b9f30e794e0f673d371645f8d39d"
+  },
+  {
+   "data": "2026-09-18",
+   "quota": 1.032958,
+   "sats": 3347429,
+   "btc": 0.03347429,
+   "nav_usdc": 20214.31,
+   "quote": 19569.3457,
+   "sigillo_tx": "0xa420ef84f5d7761277e56ddb80825e8ae720c8fd8aa8cad57b89d9818196fade"
+  },
+  {
+   "data": "2026-09-19",
+   "quota": 1.033989,
+   "sats": 3408459,
+   "btc": 0.03408459,
+   "nav_usdc": 20624.49,
+   "quote": 19946.5258,
+   "sigillo_tx": "0x0eaba380ce5a59503c64edac9e9a2a85d6886843a3980535a6d0b1fe139d6419"
+  },
+  {
+   "data": "2026-09-20",
+   "quota": 1.032815,
+   "sats": 3408459,
+   "btc": 0.03408459,
+   "nav_usdc": 20601.07,
+   "quote": 19946.5258,
+   "sigillo_tx": "0xb46462bf8b7595787e57513614d9024f85898f19039dec0aa6c0616c9d76a27f"
+  },
+  {
+   "data": "2026-09-21",
+   "quota": 1.041972,
+   "sats": 3408459,
+   "btc": 0.03408459,
+   "nav_usdc": 20783.72,
+   "quote": 19946.5258,
+   "sigillo_tx": "0x6f7d9efbadda07f470da071ba43f5245c2b7f7b01cbc9cbd36191f40f2332f29"
+  },
+  {
+   "data": "2026-09-22",
+   "quota": 1.042254,
+   "sats": 3408459,
+   "btc": 0.03408459,
+   "nav_usdc": 20789.35,
+   "quote": 19946.5258,
+   "sigillo_tx": "0x0605f10a022e1eff27490f03f19b8640fe162c4b6677958eb56e337571e8fb61"
+  },
+  {
+   "data": "2026-09-23",
+   "quota": 1.039774,
+   "sats": 3408459,
+   "btc": 0.03408459,
+   "nav_usdc": 20739.88,
+   "quote": 19946.5258,
+   "sigillo_tx": "0xf1286bbe6d2bf2c2daea1f9afc0ec8bb36b4f5bee4f3d6d313bf8fa33758f401"
+  },
+  {
+   "data": "2026-09-24",
+   "quota": 1.038489,
+   "sats": 3730621,
+   "btc": 0.03730621,
+   "nav_usdc": 22784.25,
+   "quote": 21939.8061,
+   "sigillo_tx": "0x55e259369309ed8591d8296989f5d842d38f48b7ba999669a9367154a045782f"
+  },
+  {
+   "data": "2026-09-25",
+   "quota": 1.039056,
+   "sats": 3730621,
+   "btc": 0.03730621,
+   "nav_usdc": 22796.69,
+   "quote": 21939.8061,
+   "sigillo_tx": "0x44e34f452d8e8032ac5b737323e535e962e0148ebd94c1e3d19cd559adabdc58"
+  },
+  {
+   "data": "2026-09-26",
+   "quota": 1.03918,
+   "sats": 3730621,
+   "btc": 0.03730621,
+   "nav_usdc": 22799.41,
+   "quote": 21939.8061,
+   "sigillo_tx": "0x1143e59cbdd350df1ff2b76563cb8b0ba73496a9d9460a8f9cd6acdef17ba70e"
+  },
+  {
+   "data": "2026-09-27",
+   "quota": 1.040145,
+   "sats": 4038926,
+   "btc": 0.04038926,
+   "nav_usdc": 24820.58,
+   "quote": 23862.6142,
+   "sigillo_tx": "0x5c57b51765db8e2a897f769b39468377637ac5767d9472f6375882d5f712c1c7"
+  },
+  {
+   "data": "2026-09-28",
+   "quota": 1.039308,
+   "sats": 4038926,
+   "btc": 0.04038926,
+   "nav_usdc": 24800.61,
+   "quote": 23862.6142,
+   "sigillo_tx": "0x739935f216f3a3a56f90f75dba32951d3900d92806270e094da6f1726f01e9da"
+  },
+  {
+   "data": "2026-09-29",
+   "quota": 1.038267,
+   "sats": 4038926,
+   "btc": 0.04038926,
+   "nav_usdc": 24775.76,
+   "quote": 23862.6142,
+   "sigillo_tx": "0x1890b8abeb8194c46305528b54a23b9bb12ef40410535b33fe444c5d08f9f912"
+  },
+  {
+   "data": "2026-09-30",
+   "quota": 1.040319,
+   "sats": 4156461,
+   "btc": 0.04156461,
+   "nav_usdc": 25564.73,
+   "quote": 24573.9347,
+   "sigillo_tx": "0xd86b53459a2078e3c45ad829f92a1a83d3d52ec763672ade0394ecfca375f879"
+  },
+  {
+   "data": "2026-10-01",
+   "quota": 1.040036,
+   "sats": 4271542,
+   "btc": 0.04271542,
+   "nav_usdc": 26291.22,
+   "quote": 25279.1453,
+   "sigillo_tx": "0xebcf5b747db7f03d5330731f056bac9cfbb913021270ff94791518ccf5f1490d"
+  },
+  {
+   "data": "2026-10-02",
+   "quota": 1.04188,
+   "sats": 4422573,
+   "btc": 0.04422573,
+   "nav_usdc": 27297.84,
+   "quote": 26200.5566,
+   "sigillo_tx": "0x4ba7feea205747f0e378ca27f23d62521ae7d3841fc638d6b9fd4205117f0a40"
+  },
+  {
+   "data": "2026-10-03",
+   "quota": 1.041187,
+   "sats": 4632970,
+   "btc": 0.0463297,
+   "nav_usdc": 28609.68,
+   "quote": 27477.9452,
+   "sigillo_tx": "0x0878938980f0f8d673e463dc83222caa54624d878f136701be821af700a9eb48"
+  },
+  {
+   "data": "2026-10-04",
+   "quota": 1.042437,
+   "sats": 4632970,
+   "btc": 0.0463297,
+   "nav_usdc": 28644.03,
+   "quote": 27477.9452,
+   "sigillo_tx": "0x54d640eb4e907500de71330e073b8dedc2ca3d5e095db9565f619c14710ab28b"
+  },
+  {
+   "data": "2026-10-05",
+   "quota": 1.042898,
+   "sats": 4805152,
+   "btc": 0.04805152,
+   "nav_usdc": 29756.69,
+   "quote": 28532.6987,
+   "sigillo_tx": "0x6f59eb97472b586d74b1deff00b136f42a874b41fcfca9658de13acf84637e02"
+  },
+  {
+   "data": "2026-10-06",
+   "quota": 1.043114,
+   "sats": 4805152,
+   "btc": 0.04805152,
+   "nav_usdc": 29762.86,
+   "quote": 28532.6987,
+   "sigillo_tx": "0xe99c7d90c871e7bd980be3415493a32dff8615235b9bd48f366afd25dde75866"
+  },
+  {
+   "data": "2026-10-07",
+   "quota": 1.03924,
+   "sats": 4805152,
+   "btc": 0.04805152,
+   "nav_usdc": 29652.32,
+   "quote": 28532.6987,
+   "sigillo_tx": "0x6c807006392f4d833d15fd614b6afae716987a2923ba5c184ca802434b81842c"
+  },
+  {
+   "data": "2026-10-08",
+   "quota": 1.034643,
+   "sats": 4805152,
+   "btc": 0.04805152,
+   "nav_usdc": 29521.16,
+   "quote": 28532.6987,
+   "sigillo_tx": "0x298a43fd6e86acfa45290c7fa8db56073e89ed9a4fbfe9b6fa608566326a6bd3"
+  },
+  {
+   "data": "2026-10-09",
+   "quota": 1.03827,
+   "sats": 4805152,
+   "btc": 0.04805152,
+   "nav_usdc": 29624.65,
+   "quote": 28532.6987,
+   "sigillo_tx": "0x964b2630771357479857e2cd92aea12a590ec617fa1881ea7dc2a48984736072"
+  },
+  {
+   "data": "2026-10-10",
+   "quota": 1.038891,
+   "sats": 5026623,
+   "btc": 0.05026623,
+   "nav_usdc": 31012.36,
+   "quote": 29851.4131,
+   "sigillo_tx": "0x5973f7f31708af17493331ad3fae3834be752ae5e07ef231a02d8d8fd384d26e"
+  },
+  {
+   "data": "2026-10-11",
+   "quota": 1.0402,
+   "sats": 5026623,
+   "btc": 0.05026623,
+   "nav_usdc": 31051.44,
+   "quote": 29851.4131,
+   "sigillo_tx": "0xcb7ddd2ad66c5d2864d12196bf16815dbe3ddb6f0c1a4d19a9e1837943d7e226"
+  },
+  {
+   "data": "2026-10-12",
+   "quota": 1.038549,
+   "sats": 5179165,
+   "btc": 0.05179165,
+   "nav_usdc": 31942.15,
+   "quote": 30756.5218,
+   "sigillo_tx": "0xdb5434e375fafea23df6cdb1a9c9ab26eac8e2351d2d10e8a642ae50e88a7a63"
+  },
+  {
+   "data": "2026-10-13",
+   "quota": 1.039398,
+   "sats": 5395453,
+   "btc": 0.05395453,
+   "nav_usdc": 33308.27,
+   "quote": 32045.7298,
+   "sigillo_tx": "0xbf66134ed3bb50399424772bef38d120e82c572bf55bf945ddc4205881ae7a51"
+  },
+  {
+   "data": "2026-10-14",
+   "quota": 1.037227,
+   "sats": 5395453,
+   "btc": 0.05395453,
+   "nav_usdc": 33238.7,
+   "quote": 32045.7298,
+   "sigillo_tx": "0x80c272ee307e2ed68b55813d565dc22916e94a8bb17c297b4609951fe2135c56"
+  },
+  {
+   "data": "2026-10-15",
+   "quota": 1.037376,
+   "sats": 5395453,
+   "btc": 0.05395453,
+   "nav_usdc": 33243.47,
+   "quote": 32045.7298,
+   "sigillo_tx": "0x46588643ec0a7bee1584a1660861b4c03d30b852e69ca64e6afc941e11e5eb45"
+  },
+  {
+   "data": "2026-10-16",
+   "quota": 1.038327,
+   "sats": 5544077,
+   "btc": 0.05544077,
+   "nav_usdc": 34193.95,
+   "quote": 32931.7707,
+   "sigillo_tx": "0x7b3f68fe89a157c6fc7c048a35a6c98cbad376c30db7ff3c44bd84ef3f56b3c7"
+  },
+  {
+   "data": "2026-10-17",
+   "quota": 1.036869,
+   "sats": 5671515,
+   "btc": 0.05671515,
+   "nav_usdc": 34925.93,
+   "quote": 33684.0352,
+   "sigillo_tx": "0xac81683e90bb48cb7feb7b5093be88e9dea3da3dcb711f73f0ba731eeafb6d96"
+  },
+  {
+   "data": "2026-10-18",
+   "quota": 1.037111,
+   "sats": 5911437,
+   "btc": 0.05911437,
+   "nav_usdc": 36404.08,
+   "quote": 35101.4341,
+   "sigillo_tx": "0xb5530b3137536af8cb9e3ad6b0db33c6d935442ce6cca7ccfbc0eb83884437d3"
+  },
+  {
+   "data": "2026-10-19",
+   "quota": 1.037915,
+   "sats": 5911437,
+   "btc": 0.05911437,
+   "nav_usdc": 36432.3,
+   "quote": 35101.4341,
+   "sigillo_tx": "0xb4210cae7da420549e9657ccc6a45f9d02644d6f0b8c01232a528eb99ab1ea52"
+  },
+  {
+   "data": "2026-10-20",
+   "quota": 1.040114,
+   "sats": 5911437,
+   "btc": 0.05911437,
+   "nav_usdc": 36509.49,
+   "quote": 35101.4341,
+   "sigillo_tx": "0xdf16ca1d8aac876fe5f9c11c67c69d0436413379da9e6f82a45b62814a3cf041"
+  },
+  {
+   "data": "2026-10-21",
+   "quota": 1.042864,
+   "sats": 5911437,
+   "btc": 0.05911437,
+   "nav_usdc": 36606.02,
+   "quote": 35101.4341,
+   "sigillo_tx": "0x41cd16a6521a2401670cdef182fe1688b0af89a34ede6b556b55860087d8fae8"
+  },
+  {
+   "data": "2026-10-22",
+   "quota": 1.037454,
+   "sats": 6104877,
+   "btc": 0.06104877,
+   "nav_usdc": 37595.68,
+   "quote": 36238.4099,
+   "sigillo_tx": "0x48d9551886561b157ce748c273cfb6005b180325a5362a2e0b50c4ede9343f30"
+  }
+ ]
+}
