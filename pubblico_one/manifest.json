@@ -1,8 +1,8 @@
 {
  "prodotto": "BYA One (paper test)",
- "sigillo_del": "2026-10-23T15:01:09+00:00",
- "digest_sha256": "665478075535c732a3e237ba1e004d0ae84e7f3c2b0c3d5c18ddca36cf737717",
- "tx": "0x9c26fcae094e3dfcfcf10616a5cec13c0619c9e9f708dc7dd93e376362c23e77",
+ "sigillo_del": "2026-10-24T13:59:19+00:00",
+ "digest_sha256": "4e7a9e3ecea05d04d888defe117b91b299182eb00216512e1a31ba6ff71fdbf3",
+ "tx": "0xd9739b9b54c5df4f2d79c4734197fa42fabf83f613c4b63571587446ab91bd97",
  "ordine_concatenazione": [
   "registro_one.json",
   "operazioni_one.csv",
@@ -10,8 +10,8 @@
  ],
  "nota": "sigilli_one.csv e' com'era PRIMA della riga di questo sigillo (l'impronta copre lo stato precedente).",
  "sha256_singoli": {
-  "registro_one.json": "5d5c5b4a08d4b6d224fc484f63213068dd764638a4ed3dda1bbba67e902fa80c",
-  "operazioni_one.csv": "d6fbe52d65ae486ae9b922038c013515874dd899bee7c75a5795c3db41c539b9",
-  "sigilli_one.csv": "23107ed1f1747e712ca720f6ffbae473ee0143f8549a2f188d8476694f34defd"
+  "registro_one.json": "68783d16bb62205417a639947982469350acffca7283098366936a914e01712e",
+  "operazioni_one.csv": "80578c99a1f1a0365758a56c0694f4ffd7e2d62eed51874ad77e7be989fc3cf7",
+  "sigilli_one.csv": "cbf897238c3e0e505b9bde1bad84c73d0ecfc674eb8136befc850649736240a5"
  }
 }
