@@ -1,39 +1,39 @@
 {
-  "quote_totali": 73960.72619461,
+  "quote_totali": 76589.82871020514,
   "pt": [
     {
       "nome": "sUSDS",
       "underlying_address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
-      "capitale_usdc": 12647.08,
-      "apy_ingresso": 0.050451,
-      "data_ingresso": "2026-10-25",
+      "capitale_usdc": 13190.79,
+      "apy_ingresso": 0.050621,
+      "data_ingresso": "2026-10-26",
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.010778702322381518,
+  "btc_qty": 0.010864954173718635,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-10-25",
+  "ultimo_ciclo": "2026-10-26",
   "eventi_giorno": {
-    "data": "2026-10-25",
+    "data": "2026-10-26",
     "eventi": [
-      "Accumulo: 5.85 USDC -> 0.00007268 BTC @ 80,479",
-      "Sottoscrizione: 2050 USDC @ quota 1.0307 -> 1988.95 quote | sUSDe 419, USDY 604, sUSDS 617",
-      "Impiego cassa: 410 USDC -> sUSDS @ 5.45%",
-      "Accorpate 2 voci PT sUSDS 2026-11-26 (stesso mercato): capitale unito 12,647, tasso mediato 5.05%"
+      "Accumulo: 6.92 USDC -> 0.00008625 BTC @ 80,175",
+      "Sottoscrizione: 2710 USDC @ quota 1.0308 -> 2629.10 quote | sUSDe 542, USDY 827, sUSDS 799",
+      "Impiego cassa: 542 USDC -> sUSDS @ 5.46%",
+      "Accorpate 2 voci PT sUSDS 2026-11-26 (stesso mercato): capitale unito 13,191, tasso mediato 5.06%"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 21101.711230014393,
-      "principal_usdc": 23507.342643815275
+      "qty": 21817.093757366405,
+      "principal_usdc": 24306.7638998642
     },
     "sUSDe": {
-      "qty": 12496.704547489735,
-      "principal_usdc": 15680.195747163227
+      "qty": 12926.900949344454,
+      "principal_usdc": 16222.195747163227
     },
     "USDY": {
-      "qty": 20448.29960828998,
-      "principal_usdc": 23533.244597674413
+      "qty": 21164.388237683852,
+      "principal_usdc": 24359.823341625484
     }
   },
   "formazione": [
@@ -44,11 +44,11 @@
   "sfidanti": {},
   "pesi_target": {
     "sUSDe": 0.25,
-    "USDY": 0.3752,
-    "sUSDS": 0.3748
+    "USDY": 0.3754,
+    "sUSDS": 0.3746
   },
   "scaglione": {
-    "aum": 74181.07,
+    "aum": 76236.46,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
