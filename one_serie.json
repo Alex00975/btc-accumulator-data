@@ -2,7 +2,7 @@
  "prodotto": "BYA One",
  "stato": "live paper test (simulazione, nessun fondo reale)",
  "nota": "Ogni giornata e' sigillata on-chain su Sepolia (catena propria del One).",
- "generato_utc": "2026-10-27T12:41:18+00:00",
+ "generato_utc": "2026-10-27T18:18:35+00:00",
  "giorni": [
   {
    "data": "2026-08-18",
@@ -633,6 +633,15 @@
    "nav_usdc": 40785.13,
    "quote": 39408.8765,
    "sigillo_tx": "0x82d3df5d9ea38f07d4c59e2d5002fefd99b44532689239e78096a92f7ae93d97"
+  },
+  {
+   "data": "2026-10-27",
+   "quota": 1.036343,
+   "sats": 6634730,
+   "btc": 0.0663473,
+   "nav_usdc": 40841.11,
+   "quote": 39408.8765,
+   "sigillo_tx": "0x302076f821fce949fbac03ef3ebc98a97ae2548e563327eebb63959e4532db62"
   }
  ]
 }
