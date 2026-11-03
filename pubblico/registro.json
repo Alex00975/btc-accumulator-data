@@ -10,27 +10,27 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.011532789906271483,
+  "btc_qty": 0.011605205625094334,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-11-02",
+  "ultimo_ciclo": "2026-11-03",
   "eventi_giorno": {
-    "data": "2026-11-02",
+    "data": "2026-11-03",
     "eventi": [
-      "Accumulo: 8.99 USDC -> 0.00011572 BTC @ 77,724",
+      "Accumulo: 5.55 USDC -> 0.00007242 BTC @ 76,659",
       "Nessun ingresso oggi"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 22456.756552129897,
+      "qty": 22455.325636841153,
       "principal_usdc": 25038.34700806704
     },
     "sUSDe": {
-      "qty": 13274.181339893546,
+      "qty": 13273.038656883835,
       "principal_usdc": 16674.695747163227
     },
     "USDY": {
-      "qty": 21692.8776760262,
+      "qty": 21690.689764874885,
       "principal_usdc": 24985.740233422635
     }
   },
@@ -42,11 +42,11 @@
   "sfidanti": {},
   "pesi_target": {
     "sUSDe": 0.25,
-    "sUSDS": 0.3758,
-    "USDY": 0.3742
+    "sUSDS": 0.3762,
+    "USDY": 0.3738
   },
   "scaglione": {
-    "aum": 80790.59,
+    "aum": 80786.05,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
