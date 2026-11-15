@@ -1,5 +1,5 @@
 {
-  "quote_totali": 80700.86982255273,
+  "quote_totali": 81864.85382941247,
   "pt": [
     {
       "nome": "sUSDS",
@@ -10,28 +10,28 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.012727429664885201,
+  "btc_qty": 0.012840684907848293,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-11-14",
+  "ultimo_ciclo": "2026-11-15",
   "eventi_giorno": {
-    "data": "2026-11-14",
+    "data": "2026-11-15",
     "eventi": [
-      "Accumulo: 8.18 USDC -> 0.00012178 BTC @ 67,199",
-      "Nessun ingresso oggi"
+      "Accumulo: 7.47 USDC -> 0.00011326 BTC @ 65,978",
+      "Sottoscrizione: 1200 USDC @ quota 1.0309 -> 1163.98 quote | sUSDe 300, sUSDS 452, USDY 448"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 23345.593437346448,
-      "principal_usdc": 26060.699721418187
+      "qty": 23748.14303775723,
+      "principal_usdc": 26512.66139017672
     },
     "sUSDe": {
-      "qty": 13735.739197922478,
-      "principal_usdc": 17282.195747163227
+      "qty": 13972.30090110955,
+      "principal_usdc": 17582.195747163227
     },
     "USDY": {
-      "qty": 22360.49279639395,
-      "principal_usdc": 25785.887520071494
+      "qty": 22746.71934293041,
+      "principal_usdc": 26233.92585131296
     }
   },
   "formazione": [
@@ -46,7 +46,7 @@
     "USDY": 0.373
   },
   "scaglione": {
-    "aum": 83203.72,
+    "aum": 83197.93,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
