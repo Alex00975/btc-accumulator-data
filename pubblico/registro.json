@@ -10,43 +10,46 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.012963372653507213,
+  "btc_qty": 0.013096272478860225,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-11-16",
+  "ultimo_ciclo": "2026-11-17",
   "eventi_giorno": {
-    "data": "2026-11-16",
+    "data": "2026-11-17",
     "eventi": [
-      "Accumulo: 7.89 USDC -> 0.00012269 BTC @ 64,311",
-      "Nessun ingresso oggi"
+      "Accumulo: 8.64 USDC -> 0.00013290 BTC @ 65,039",
+      "Paniere: sostituzione d'urgenza (sUSDe senza fonte) -> OUSG, USDY, sUSDS",
+      "Nessun ingresso oggi",
+      "Ribilancio: 17,582 USDC da sUSDe -> OUSG 16311, sUSDS 1237 (costo 33.92)",
+      "Paniere: 1 vendita/e evitata/e (il maggior rendimento non ripaga il canale)"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 23745.69028559236,
-      "principal_usdc": 26512.66139017672
-    },
-    "sUSDe": {
-      "qty": 13970.31030973261,
-      "principal_usdc": 17582.195747163227
+      "qty": 24850.71920336083,
+      "principal_usdc": 27749.72288572754
     },
     "USDY": {
-      "qty": 22744.424993806875,
+      "qty": 22742.131107475965,
       "principal_usdc": 26233.92585131296
+    },
+    "OUSG": {
+      "qty": 139.06842990496025,
+      "principal_usdc": 16311.209313144715
     }
   },
   "formazione": [
+    "OUSG",
     "USDY",
-    "sUSDS",
-    "sUSDe"
+    "sUSDS"
   ],
   "sfidanti": {},
   "pesi_target": {
-    "sUSDe": 0.25,
-    "sUSDS": 0.377,
-    "USDY": 0.373
+    "OUSG": 0.3035,
+    "sUSDS": 0.4,
+    "USDY": 0.2965
   },
   "scaglione": {
-    "aum": 84387.8,
+    "aum": 84407.64,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
