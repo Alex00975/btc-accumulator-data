@@ -1,5 +1,5 @@
 {
-  "quote_totali": 82223.84396106483,
+  "quote_totali": 83126.39380996051,
   "pt": [
     {
       "nome": "sUSDS",
@@ -10,30 +10,30 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.013322427331679397,
+  "btc_qty": 0.013433569323796628,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-11-19",
+  "ultimo_ciclo": "2026-11-20",
   "eventi_giorno": {
-    "data": "2026-11-19",
+    "data": "2026-11-20",
     "eventi": [
-      "Accumulo: 6.95 USDC -> 0.00010881 BTC @ 63,857",
-      "Paniere: sUSDe sopra soglia da 1/7 giorni",
-      "Sottoscrizione: 370 USDC @ quota 1.0307 -> 358.99 quote | sUSDS 36, OUSG 334",
+      "Accumulo: 6.86 USDC -> 0.00011114 BTC @ 61,685",
+      "Paniere: sUSDe sopra soglia da 2/7 giorni",
+      "Sottoscrizione: 930 USDC @ quota 1.0304 -> 902.55 quote | sUSDS 143, OUSG 787",
       "Paniere: 1 vendita/e evitata/e (il maggior rendimento non ripaga il canale)"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 24878.069607199683,
-      "principal_usdc": 27785.90854237787
+      "qty": 25003.326485066867,
+      "principal_usdc": 27928.483528065273
     },
     "USDY": {
-      "qty": 22737.543737274525,
+      "qty": 22735.25045055334,
       "principal_usdc": 26233.92585131296
     },
     "OUSG": {
-      "qty": 141.88385931846543,
-      "principal_usdc": 16645.023656494384
+      "qty": 148.58215446920696,
+      "principal_usdc": 17432.44867080698
     }
   },
   "formazione": [
@@ -42,7 +42,7 @@
     "sUSDS"
   ],
   "sfidanti": {
-    "sUSDe": 1
+    "sUSDe": 2
   },
   "pesi_target": {
     "sUSDS": 0.4,
@@ -50,7 +50,7 @@
     "OUSG": 0.2982
   },
   "scaglione": {
-    "aum": 84375.56,
+    "aum": 84724.62,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
