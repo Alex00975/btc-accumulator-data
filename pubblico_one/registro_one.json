@@ -2,7 +2,7 @@
  "quote_totali": 49607.44085909015,
  "titoli": {
   "token": "USTB",
-  "qty": 3961.142412976323,
+  "qty": 3961.120708086389,
   "nav_migrazione": 11.251041,
   "data_migrazione": "2026-10-20"
  },
@@ -10,20 +10,20 @@
  "hwm": 1.0,
  "anno_quota": {
   "anno": 2026,
-  "quota": 1.001823
+  "quota": 1.003845
  },
  "ultima_uscita_mese": "2026-10",
- "fee_gestione_cum": 9.7026,
- "ultimo_ciclo": "2026-11-20",
+ "fee_gestione_cum": 9.9476,
+ "ultimo_ciclo": "2026-11-21",
  "y3_valido": {
-  "valore": 0.0481,
-  "data_dato": "2026-11-19",
-  "letto_il": "2026-11-20",
+  "valore": 0.04650000000000001,
+  "data_dato": "2026-11-20",
+  "letto_il": "2026-11-21",
   "fonte": "Tesoro USA 3 Yr"
  },
  "nav_ustb_ultimo": {
   "valore": 11.28567,
-  "data": "2026-11-20"
+  "data": "2026-11-21"
  },
  "commissione_uscita_cum": 2.1197
 }

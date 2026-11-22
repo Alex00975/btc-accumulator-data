@@ -1,8 +1,8 @@
 {
  "prodotto": "BYA Core (paper test)",
- "sigillo_del": "2026-11-21T09:38:02+00:00",
- "digest_sha256": "8ed3cad52d16d6be584011dc5bb035a3c9f283e3be6d9eaad7e5ca034943ed7e",
- "tx": "0x2b1707a8e51b35ce3d3c22e3df6f03e94188ac89552075db13f2d0f22ef15958",
+ "sigillo_del": "2026-11-22T11:07:45+00:00",
+ "digest_sha256": "77f6a8d05b612f0ac2f386b0549ce4f96987074785d17e0bbc138dff36c4525f",
+ "tx": "0x4762e8d341a1aab5ea0db03833649a5d539d9e7e7652fb4f5645d77259b958a6",
  "ordine_concatenazione": [
   "registro.json",
   "operazioni.csv",
@@ -10,8 +10,8 @@
  ],
  "nota": "sigilli.csv e' com'era PRIMA della riga dell'ultimo sigillo (l'impronta copre lo stato precedente).",
  "sha256_singoli": {
-  "registro.json": "51c5a44ffe3d6f0eb3e1755b4d097b9c465651d03887a77ebd52e7e180096d71",
-  "operazioni.csv": "e554e7a8ade6d030161c270b597d5fe433c9e2078a9f9345a7b817fc41414b7a",
-  "sigilli.csv": "95447c95585e465077c16af0968035aba9ccd7ad0e9e945723fbc378416eb2ca"
+  "registro.json": "36b289da78d2ce1e2029a7af8828eebc6d184658a07bf12bf553196783d9693b",
+  "operazioni.csv": "2790aeabdb1edea77ee8bbb7c5c6849bfc0e925038f0bc715c48c5e4bcd1510f",
+  "sigilli.csv": "8b3456ae3b1a036a80a83f008788d6bb90623ce5f581a1348a954918bb75b499"
  }
 }
