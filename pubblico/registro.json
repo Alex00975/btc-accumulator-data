@@ -10,46 +10,45 @@
       "scadenza": "2026-11-26"
     }
   ],
-  "btc_qty": 0.013735960910815626,
+  "btc_qty": 0.013943632312833265,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-11-23",
+  "ultimo_ciclo": "2026-11-24",
   "eventi_giorno": {
-    "data": "2026-11-23",
+    "data": "2026-11-24",
     "eventi": [
-      "Accumulo: 5.26 USDC -> 0.00008568 BTC @ 61,431",
-      "Paniere: sUSDe sopra soglia da 5/7 giorni",
-      "Sottoscrizione: 940 USDC @ quota 1.0307 -> 912.03 quote | sUSDS 305, OUSG 635"
+      "Accumulo: 12.47 USDC -> 0.00020767 BTC @ 60,028",
+      "Paniere: OUSG fuori dalla formazione per decisione -> USDY, sUSDS, sUSDe",
+      "Paniere: OUSG CONGELATO (escluso (riservato ai qualified purchaser (decisione 10/11)), esce il 2026-11-26): nessuna vendita, nessun flusso",
+      "Nessun ingresso oggi"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 25516.72590586909,
+      "qty": 25513.185648600196,
       "principal_usdc": 28510.385655463262
     },
     "USDY": {
-      "qty": 22728.371986746602,
+      "qty": 22726.079565302738,
       "principal_usdc": 26233.92585131296
     },
     "OUSG": {
-      "qty": 162.4420270183371,
+      "qty": 162.39206971617955,
       "principal_usdc": 19060.546543408993
     }
   },
   "formazione": [
-    "OUSG",
     "USDY",
-    "sUSDS"
+    "sUSDS",
+    "sUSDe"
   ],
-  "sfidanti": {
-    "sUSDe": 5
-  },
+  "sfidanti": {},
   "pesi_target": {
-    "sUSDS": 0.4,
-    "USDY": 0.3132,
-    "OUSG": 0.2868
+    "sUSDe": 0.25,
+    "sUSDS": 0.377,
+    "USDY": 0.373
   },
   "scaglione": {
-    "aum": 86946.45,
+    "aum": 87882.26,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
@@ -57,5 +56,8 @@
     "nome": "sUSDS",
     "qty": null,
     "principal_usdc": 0.0
+  },
+  "congelate": {
+    "OUSG": "escluso (riservato ai qualified purchaser (decisione 10/11)), esce il 2026-11-26"
   }
 }
