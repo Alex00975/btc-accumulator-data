@@ -2,41 +2,39 @@
   "quote_totali": 87590.84296870528,
   "pt": [
     {
-      "nome": "sUSDS",
-      "underlying_address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+      "nome": "sUSDe",
+      "underlying_address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
       "capitale_usdc": 13190.79,
-      "apy_ingresso": 0.050621,
-      "data_ingresso": "2026-10-26",
-      "scadenza": "2026-11-26"
+      "apy_ingresso": 0.0426,
+      "data_ingresso": "2026-11-26",
+      "scadenza": "2027-02-25"
     }
   ],
-  "btc_qty": 0.014055967963490968,
+  "btc_qty": 0.015104650638880324,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-11-25",
+  "ultimo_ciclo": "2026-11-26",
   "eventi_giorno": {
-    "data": "2026-11-25",
+    "data": "2026-11-26",
     "eventi": [
-      "Accumulo: 6.59 USDC -> 0.00011234 BTC @ 58,623",
-      "Paniere: OUSG CONGELATO (escluso (riservato ai qualified purchaser (decisione 10/11)), esce il 2026-11-26): nessuna vendita, nessun flusso",
-      "Sottoscrizione: 2390 USDC @ quota 1.0305 -> 2319.27 quote | sUSDe 2122, sUSDS 24, USDY 244"
+      "Accumulo: 8.15 USDC -> 0.00013446 BTC @ 60,640",
+      "Scadenza sUSDS: rendimento 55.44 USDC -> 0.00091423 BTC",
+      "Rollover: 13191 USDC -> sUSDe @ 4.26% (scad. 2027-02-25)",
+      "Nessun ingresso oggi",
+      "Ribilancio: 19,061 USDC da OUSG -> sUSDe 16891, sUSDS 189, USDY 1941 (costo 39.88)"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 25532.314702738076,
-      "principal_usdc": 28534.08582120277
+      "qty": 25698.31625366071,
+      "principal_usdc": 28722.826679720773
     },
     "USDY": {
-      "qty": 22935.06165462269,
-      "principal_usdc": 26477.83558269869
-    },
-    "OUSG": {
-      "qty": 162.37829351226924,
-      "principal_usdc": 19060.546543408993
+      "qty": 24613.884230080614,
+      "principal_usdc": 28418.85179886523
     },
     "sUSDe": {
-      "qty": 1684.300974212558,
-      "principal_usdc": 2122.3901028747605
+      "qty": 15086.514354619145,
+      "principal_usdc": 19013.302529490244
     }
   },
   "formazione": [
@@ -51,7 +49,7 @@
     "USDY": 0.373
   },
   "scaglione": {
-    "aum": 87872.13,
+    "aum": 90301.6,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
@@ -60,7 +58,5 @@
     "qty": null,
     "principal_usdc": 0.0
   },
-  "congelate": {
-    "OUSG": "escluso (riservato ai qualified purchaser (decisione 10/11)), esce il 2026-11-26"
-  }
+  "congelate": {}
 }
