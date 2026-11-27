@@ -1,40 +1,38 @@
 {
-  "quote_totali": 87590.84296870528,
+  "quote_totali": 88813.26569412586,
   "pt": [
     {
       "nome": "sUSDe",
       "underlying_address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
-      "capitale_usdc": 13190.79,
+      "capitale_usdc": 3323.14,
       "apy_ingresso": 0.0426,
       "data_ingresso": "2026-11-26",
       "scadenza": "2027-02-25"
     }
   ],
-  "btc_qty": 0.015104650638880324,
+  "btc_qty": 0.015232397719446041,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-11-26",
+  "ultimo_ciclo": "2026-11-27",
   "eventi_giorno": {
-    "data": "2026-11-26",
+    "data": "2026-11-27",
     "eventi": [
-      "Accumulo: 8.15 USDC -> 0.00013446 BTC @ 60,640",
-      "Scadenza sUSDS: rendimento 55.44 USDC -> 0.00091423 BTC",
-      "Rollover: 13191 USDC -> sUSDe @ 4.26% (scad. 2027-02-25)",
-      "Nessun ingresso oggi",
-      "Ribilancio: 19,061 USDC da OUSG -> sUSDe 16891, sUSDS 189, USDY 1941 (costo 39.88)"
+      "Accumulo: 6.77 USDC -> 0.00010949 BTC @ 61,788",
+      "Tetto Ethena 25%: venduti 9,868 USDC di PT sUSDe -> sUSDS 4880, USDY 4984 (costo 3.95)",
+      "Sottoscrizione: 1260 USDC @ quota 1.0307 -> 1222.42 quote | sUSDe 278, sUSDS 563, USDY 419"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 25698.31625366071,
-      "principal_usdc": 28722.826679720773
+      "qty": 30566.033639009263,
+      "principal_usdc": 34165.93752949694
     },
     "USDY": {
-      "qty": 24613.884230080614,
-      "principal_usdc": 28418.85179886523
+      "qty": 29290.603135354166,
+      "principal_usdc": 33821.93823211589
     },
     "sUSDe": {
-      "qty": 15086.514354619145,
-      "principal_usdc": 19013.302529490244
+      "qty": 15305.258864176803,
+      "principal_usdc": 19290.8079640236
     }
   },
   "formazione": [
@@ -44,12 +42,12 @@
   ],
   "sfidanti": {},
   "pesi_target": {
-    "sUSDe": 0.25,
-    "sUSDS": 0.377,
-    "USDY": 0.373
+    "sUSDe": 0.2214,
+    "sUSDS": 0.3912,
+    "USDY": 0.3873
   },
   "scaglione": {
-    "aum": 90301.6,
+    "aum": 90287.36,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
