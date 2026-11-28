@@ -10,28 +10,27 @@
       "scadenza": "2027-02-25"
     }
   ],
-  "btc_qty": 0.015232397719446041,
+  "btc_qty": 0.015399582181654397,
   "cassa_pt_usdc": 0.0,
-  "ultimo_ciclo": "2026-11-27",
+  "ultimo_ciclo": "2026-11-28",
   "eventi_giorno": {
-    "data": "2026-11-27",
+    "data": "2026-11-28",
     "eventi": [
-      "Accumulo: 6.77 USDC -> 0.00010949 BTC @ 61,788",
-      "Tetto Ethena 25%: venduti 9,868 USDC di PT sUSDe -> sUSDS 4880, USDY 4984 (costo 3.95)",
-      "Sottoscrizione: 1260 USDC @ quota 1.0307 -> 1222.42 quote | sUSDe 278, sUSDS 563, USDY 419"
+      "Accumulo: 9.92 USDC -> 0.00016718 BTC @ 59,360",
+      "Nessun ingresso oggi"
     ]
   },
   "paniere": {
     "sUSDS": {
-      "qty": 30566.033639009263,
+      "qty": 30562.644239187717,
       "principal_usdc": 34165.93752949694
     },
     "USDY": {
-      "qty": 29290.603135354166,
+      "qty": 29287.648759862455,
       "principal_usdc": 33821.93823211589
     },
     "sUSDe": {
-      "qty": 15305.258864176803,
+      "qty": 15303.0985378438,
       "principal_usdc": 19290.8079640236
     }
   },
@@ -43,11 +42,11 @@
   "sfidanti": {},
   "pesi_target": {
     "sUSDe": 0.2214,
-    "sUSDS": 0.3912,
+    "sUSDS": 0.3913,
     "USDY": 0.3873
   },
   "scaglione": {
-    "aum": 90287.36,
+    "aum": 91517.48,
     "posizioni_max": 3,
     "tetto_emittente": 0.4
   },
